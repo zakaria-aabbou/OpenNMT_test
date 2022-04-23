@@ -1,0 +1,2 @@
+This directory contains APE shared task (@ WMT 2017) training data for English-German language direction.
+It contains en-de.train.{src, mt, and pe} files having 11K segments
